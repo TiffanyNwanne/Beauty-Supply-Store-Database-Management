@@ -1,4 +1,4 @@
-# Report on Transitioning a Beauty Supply Store to an SQLite Database
+# Beauty Supply Store Database Management Report
 
 # **1. Introduction**
 
