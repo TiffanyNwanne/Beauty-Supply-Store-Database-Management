@@ -58,7 +58,7 @@ Stores the details of individual products sold in each transaction.
 
 The database was created using **SQLite**, a lightweight and efficient database management system. The SQL script used for database creation includes:
 
-[https://www.notion.so](https://www.notion.so)
+[![Preview Image](https://github.com/TiffanyNwanne/Beauty-Supply-Store-Database-Management/blob/main/Database%20Creation.png))](https://github.com/TiffanyNwanne/Beauty-Supply-Store-Database-Management/blob/main/Database%20Creation.png)
 
 This structure ensures **data integrity** through relationships, allowing efficient **data retrieval and reporting**.
 
