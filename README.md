@@ -1,5 +1,7 @@
 # Beauty Supply Store Database Management Report
 
+[![Preview Image](https://github.com/TiffanyNwanne/Beauty-Supply-Store-Database-Management/blob/main/Beauty%20Supply%20Db.png))](https://github.com/TiffanyNwanne/Beauty-Supply-Store-Database-Management/blob/main/Beauty%20Supply%20Db.png)
+
 # **1. Introduction**
 
 The transition from a manual, paper-based record-keeping system to a **structured SQLite database** is a critical step in improving the efficiency and accuracy of managing a **beauty supply store**. This report outlines the design, implementation, and benefits of a database system tailored for **sales, inventory, and customer management**.
@@ -83,6 +85,8 @@ To populate the database, data from existing paper records was digitized and **i
 This method **preserves historical records** while setting up a scalable system for future transactions.
 
 # **5. Visualization of the Database Structure**
+
+[![Preview Image](https://github.com/TiffanyNwanne/Beauty-Supply-Store-Database-Management/blob/main/Beauty%20Supply%20Db.png))](https://github.com/TiffanyNwanne/Beauty-Supply-Store-Database-Management/blob/main/Beauty%20Supply%20Db.png)
 
 A visual **Entity-Relationship Diagram (ERD)** was created to represent the relationships between tables. This visualization ensures **a clear understanding of the database schema** and aids in future database modifications.
 
