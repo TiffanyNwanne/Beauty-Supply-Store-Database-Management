@@ -56,7 +56,7 @@ Stores the details of individual products sold in each transaction.
 
 •	**Columns:** quantity_sold, subtotal
 
-# **3. Implementation in SQLite**
+# **3. Implementation in MySQL**
 
 The database was created using **MySQL**, a lightweight and efficient database management system. The SQL script used for database creation includes:
 
