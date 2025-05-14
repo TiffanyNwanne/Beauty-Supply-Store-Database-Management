@@ -1,6 +1,6 @@
 # Beauty Supply Store Database Management Report
 
-[![Preview Image](https://github.com/TiffanyNwanne/Beauty-Supply-Store-Database-Management/blob/main/Beauty%20Supply%20Db.png))](https://github.com/TiffanyNwanne/Beauty-Supply-Store-Database-Management/blob/main/Beauty%20Supply%20Db.png)
+[![Preview Image](https://github.com/TiffanyNwanne/Beauty-Supply-Store-Database-Management/blob/main/beautysupplyerd.png))](https://github.com/TiffanyNwanne/Beauty-Supply-Store-Database-Management/blob/main/beautysupplyerd.png)
 
 # **1. Introduction**
 
@@ -86,7 +86,7 @@ This method **preserves historical records** while setting up a scalable system 
 
 # **5. Visualization of the Database Structure**
 
-[![Preview Image](https://github.com/TiffanyNwanne/Beauty-Supply-Store-Database-Management/blob/main/Beauty%20Supply%20Db.png))](https://github.com/TiffanyNwanne/Beauty-Supply-Store-Database-Management/blob/main/Beauty%20Supply%20Db.png)
+[![Preview Image](https://github.com/TiffanyNwanne/Beauty-Supply-Store-Database-Management/blob/main/beautysupplyerd.png))](https://github.com/TiffanyNwanne/Beauty-Supply-Store-Database-Management/blob/main/beautysupplyerd.png)
 
 A visual **Entity-Relationship Diagram (ERD)** was created to represent the relationships between tables. This visualization ensures **a clear understanding of the database schema** and aids in future database modifications.
 
