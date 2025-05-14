@@ -4,7 +4,7 @@
 
 # **1. Introduction**
 
-The transition from a manual, paper-based record-keeping system to a **structured SQLite database** is a critical step in improving the efficiency and accuracy of managing a **beauty supply store**. This report outlines the design, implementation, and benefits of a database system tailored for **sales, inventory, and customer management**.
+The transition from a manual, paper-based record-keeping system to a **structured MySQl database** is a critical step in improving the efficiency and accuracy of managing a **beauty supply store**. This report outlines the design, implementation, and benefits of a database system tailored for **sales, inventory, and customer management**.
 
 # **2. Database Design**
 
@@ -58,7 +58,7 @@ Stores the details of individual products sold in each transaction.
 
 # **3. Implementation in SQLite**
 
-The database was created using **SQLite**, a lightweight and efficient database management system. The SQL script used for database creation includes:
+The database was created using **MySQL**, a lightweight and efficient database management system. The SQL script used for database creation includes:
 
 [![Preview Image](https://github.com/TiffanyNwanne/Beauty-Supply-Store-Database-Management/blob/main/Database%20Creation.png))](https://github.com/TiffanyNwanne/Beauty-Supply-Store-Database-Management/blob/main/Database%20Creation.png)
 
@@ -72,7 +72,7 @@ To populate the database, data from existing paper records was digitized and **i
 
 2.	**Converting spreadsheets to CSV format** for easy database import.
 
-3.	**Loading data into SQLite** using the .import command.
+3.	**Loading data into MySQL** using the .import command.
 
 .mode csv
 
@@ -100,7 +100,7 @@ The ERD highlights:
 
 # **6. Benefits of the New System**
 
-The implementation of the SQLite database brings several **business benefits**:
+The implementation of the MySQL database brings several **business benefits**:
 
 **6.1. Improved Efficiency**
 
@@ -128,7 +128,7 @@ The implementation of the SQLite database brings several **business benefits**:
 
 # **7. Conclusion**
 
-The transition to an SQLite database significantly enhances **efficiency, accuracy, and business insights** for the beauty supply store. Moving forward, additional features can be implemented, such as:
+The transition to a MySQL database significantly enhances **efficiency, accuracy, and business insights** for the beauty supply store. Moving forward, additional features can be implemented, such as:
 
 1.	**User-friendly POS software** integrated with the database.
 
